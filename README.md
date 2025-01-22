@@ -30,6 +30,9 @@ https://silam-testcase-assets.lake.fmi.fi/EU_TEST-assets-20250121.tar.bz2
 
 4. Get a working binary for SILAM into some other directory (see https://github.com/fmidev/silam-model)
 
+5. Set `SILAM_INI` environment variable to point to the ini directory from the SILAM worktree:
+  `export SILAM_INI=/path/to/silam-model/ini`
+
 5. Run the SILAM binary from the `EU_TEST` directory giving EU-short.control as a parameter
 
 6. Enjoy the warmth from your CPU
