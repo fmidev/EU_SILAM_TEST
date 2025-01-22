@@ -1,0 +1,8 @@
+Obs/
+boundaries_cifs/
+emis/
+meteo/
+output/
+photolysis/
+physiography/
+run_tmp_*.log
